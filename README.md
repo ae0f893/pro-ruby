@@ -11,3 +11,18 @@ $ ruby -r minitest -e "puts Minitest::VERSION"
 
 拡張機能`Ruby LSP`を使うために Gemfile から`bundle install`を実行  
 `/var/lib/gems/3.0.0/gems/`にインストールしたパッケージが配置される
+
+## チェックリスト
+
+- [x] 2 章
+- [x] 3 章
+- [x] 4 章
+- [ ] 5 章
+- [ ] 6 章
+- [ ] 7 章
+- [ ] 8 章
+- [x] 9 章
+- [ ] 10 章
+- [ ] 11 章
+- [ ] 12 章
+- [ ] 13 章
